@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "noemod",
+	"version": "1.1.0+1.21.11",
+	"name": "Noe AutoFarm",
+	"description": "Mod AutoFarm otomatis memanen dan menanam kembali tanaman pertanian dengan cangkul cerdas, auto bone meal, dan proteksi pasif farmland.",
+	"authors": [
+		"Noe"
+	],
+	"contact": {},
+	"license": "MIT",
+	"icon": "assets/noemod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.noemod.NoeMod"
+		],
+		"client": [
+			"com.noemod.NoeModClient"
+		]
+	},
+	"mixins": [
+		"noemod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

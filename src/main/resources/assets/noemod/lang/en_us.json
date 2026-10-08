@@ -1,0 +1,12 @@
+{
+	"category.noemod.general": "Noe AutoFarm",
+	"key.noemod.toggle_autofarm": "Toggle AutoFarm",
+	"key.noemod.toggle_bonemeal": "Toggle Auto Bone Meal",
+	"text.noemod.config.title": "Noe AutoFarm Settings",
+	"text.noemod.config.radius": "Scan Radius: %s blocks",
+	"text.noemod.config.tick_delay": "Tick Delay: %s ticks",
+	"text.noemod.config.use_hoe": "Use Hoe",
+	"text.noemod.config.auto_replant": "Auto Replant",
+	"text.noemod.config.protect_farmland": "Farmland Protection",
+	"text.noemod.config.enable_farm_memory": "Farm Memory (Replant Queue)"
+}

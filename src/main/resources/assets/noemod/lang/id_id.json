@@ -1,0 +1,12 @@
+{
+	"category.noemod.general": "Noe AutoFarm",
+	"key.noemod.toggle_autofarm": "Nyalakan/Matikan AutoFarm",
+	"key.noemod.toggle_bonemeal": "Nyalakan/Matikan Auto Bone Meal",
+	"text.noemod.config.title": "Pengaturan Noe AutoFarm",
+	"text.noemod.config.radius": "Radius Deteksi: %s blok",
+	"text.noemod.config.tick_delay": "Jeda Waktu: %s tick",
+	"text.noemod.config.use_hoe": "Gunakan Cangkul",
+	"text.noemod.config.auto_replant": "Tanam Otomatis",
+	"text.noemod.config.protect_farmland": "Proteksi Farmland",
+	"text.noemod.config.enable_farm_memory": "Memori Lahan (Tanam Tertunda)"
+}

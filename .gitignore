@@ -1,0 +1,34 @@
+# ==============================================================================
+# Gradle & Java Build Outputs / Caches
+# ==============================================================================
+.gradle/
+build/
+bin/
+out/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Fabric Loom & Minecraft Run Environment
+run/
+.fabric/
+loom-cache/
+
+# IDE Configuration
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/*
+!.vscode/settings.json
+.classpath
+.project
+.settings/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build Artifacts / Binaries (Distribusikan via GitHub Releases)
+Hasil/
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
